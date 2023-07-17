@@ -16,5 +16,5 @@ The objective of this project is to demonstrate a simple event-driven architectu
 <code>terraform init</code><br>
 <code>terraform apply</code>
 
-*Once the infrastructure is created, you will see the API Gateway endpoint URL in the Terraform output. Use this URL to send HTTP POST requests to add jobs to the DynamoDB table. The job_type should be either 'addToS3' or 'addToDynamoDB' ❗❗
+* Once the infrastructure is created, you will see the API Gateway endpoint URL in the Terraform output. Use this URL to send HTTP POST requests to add jobs to the DynamoDB table. The job_type should be either 'addToS3' or 'addToDynamoDB' ❗❗
 
