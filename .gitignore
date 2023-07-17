@@ -1,0 +1,7 @@
+.terraform/
+
+/ you think you can access my secret data huh
+*.tfvars
+
+//draft
+*.txt
